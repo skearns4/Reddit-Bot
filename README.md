@@ -1,3 +1,4 @@
+#Reddit-Bot
 This is a program that scans comments on www.reddit.com/r/all.
 If the comment contains a certain string, the program will leave a comment on that comment, containing a the string of your choosing.
 
