@@ -5,3 +5,5 @@ If the comment contains a certain string, the program will leave a comment on th
 Reddit doesn't like users commenting too many times in a small window of time. If the program responds to too many comments in a certain amount of time, the program will crash.
 
 Aside from this issue, as long as there is a constant internet connection and the Reddit site remains up, the program should continue to run as written.
+
+Sources: https://praw.readthedocs.org
